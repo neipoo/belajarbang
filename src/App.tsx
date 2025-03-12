@@ -219,7 +219,7 @@ function App() {
             className="inline-flex items-center gap-2 text-gray-400 hover:text-white transition-colors"
           >
             <Github size={20} />
-            <span>Created by YoshCasaster</span>
+            <span>Created by Usi elitis fomo</span>
           </a>
         </footer>
       </div>
